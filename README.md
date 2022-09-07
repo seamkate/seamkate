@@ -55,6 +55,7 @@ function digitize(n) {
 ```
 
 ## My works
+* [Landing Page Odigo, about Japan](https://seamkate.github.io/firstProject/?#!)
 * [Website for little town Sedona. HTML Academy student's project.](https://github.com/seamkate/sedona)
 * [Nerds. HTML Academy student's project. A simple site without adaptivity with minimal JS.](https://github.com/seamkate/nerds)
 * [My CV](https://seamkate.github.io/rsschool-cv/cv)
